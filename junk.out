@@ -1,1 +1,6 @@
-junk file
+import os
+import lib
+
+
+Class Junk():
+
